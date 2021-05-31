@@ -1,0 +1,30 @@
+body{
+   
+    background-image: url(../assets/gradienta-LeG68PrXA6Y-unsplash.jpg);
+    background-size: cover;
+    background-position: center center center;
+}
+.auto
+{
+    border-left: 5px solid #000000;
+    background-color: rgba(0,0,0, 0.5);
+    padding: 5px;
+}
+.date{
+    color:skyblue;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+}
+h2{
+    font-size: 2rem;
+}
+.black{
+    background-color:rgba(0,0,0,0.5);
+    border : 20px solid #101313;
+    color: snow;
+    padding: 20px;
+    max-width: 700px;
+    width: 80%;
+    margin: 0 auto;
+    font-family: 'Source Sans Pro', sans-serif;
+}
